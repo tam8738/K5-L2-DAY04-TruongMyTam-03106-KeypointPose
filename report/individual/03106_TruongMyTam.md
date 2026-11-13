@@ -131,27 +131,26 @@ Các `[CẢNH BÁO]` còn giữ nguyên và lý do:
 
    ![Label person](images/1_label_person.png)
 
-   Nguồn ảnh: ảnh giao diện CVAT (label của lab).
+   Nguồn: giao diện CVAT và label `person` của lab; ảnh này không lấy từ bộ dữ liệu bên ngoài.
 
 2. Một người quay lưng đã gán, cờ đã đặt:
 
    ![Người quay lưng đã gán, có điểm đặt cờ](images/2_nguoi_quay_lung.png)
 
-   Nguồn ảnh: COCO val2017.
+   Nguồn ảnh: COCO val2017, `000000359340.jpg`.
 
 3. Một khuôn mặt đã gán 13 điểm, phóng to vùng mắt:
 
    ![Khuôn mặt đã gán 13 điểm, phóng to vùng mắt](images/3_mat_phong_to.png)
 
-   Nguồn ảnh: COCO val2017.
+   Nguồn ảnh: COCO val2017, ảnh mặt cắt `face_105668.jpg`.
 
 4. Một đoạn JSON xuất của một người:
 
    ![Đoạn JSON COCO Keypoints 1.0 đã xuất](images/4_json_export.png)
 
-   Nguồn ảnh: COCO val2017; JSON lấy từ `TruongMyTam_persons.zip`.
+   Nguồn dữ liệu: ảnh COCO val2017 `000000019754.jpg`; JSON được trích từ export `TruongMyTam_persons.zip`.
 
-Nguồn ảnh: COCO val2017 / Wikimedia Commons.
 
 ## 7. Tự đánh giá
 
