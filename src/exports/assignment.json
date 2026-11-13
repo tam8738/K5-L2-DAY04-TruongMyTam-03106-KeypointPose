@@ -1,0 +1,43 @@
+{
+ "mssv": "03106",
+ "ten": "TruongMyTam",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "Tam",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000019754.jpg",
+  "000000057978.jpg",
+  "000000294329.jpg",
+  "000000349521.jpg",
+  "000000564304.jpg",
+  "000000122199.jpg",
+  "000000147780.jpg",
+  "000000461389.jpg",
+  "000000297227.jpg",
+  "000000359340.jpg",
+  "000000269462.jpg",
+  "000000012552.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_125051.jpg",
+  "face_3348.jpg",
+  "face_105668.jpg",
+  "face_264124.jpg",
+  "face_380754.jpg",
+  "face_219250.jpg",
+  "face_483667.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 12,
+   "job_id": 12,
+   "task_name": "persons-TruongMyTam"
+  },
+  "faces": {
+   "task_id": 13,
+   "job_id": 13,
+   "task_name": "faces-TruongMyTam"
+  }
+ }
+}
